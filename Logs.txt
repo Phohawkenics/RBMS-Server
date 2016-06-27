@@ -1,0 +1,118 @@
+2016-01-09 15:40:42.143 Binding to port 9999, please wait  ...
+2016-01-09 15:40:42.163 Server started: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=9999]
+2016-01-09 15:40:42.163 Initializing..
+2016-01-09 15:40:42.183 Waiting for a client ...
+2016-01-09 15:40:42.183 Sending Invitations for Request#:642
+2016-01-09 15:40:42.193 Request#:642 INVITE
+2016-01-09 15:40:42.193 Request#:642 INVITE
+2016-01-09 15:40:42.193 Waiting for replies for Request#:642
+2016-01-09 15:40:42.193 Request#:642 ATTENDANCE
+2016-01-09 15:40:44.219 Request#:642 WAITING
+2016-01-09 15:41:39.676 Binding to port 9999, please wait  ...
+2016-01-09 15:41:39.686 Server started: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=9999]
+2016-01-09 15:41:39.686 Initializing..
+2016-01-09 15:41:39.696 Waiting for a client ...
+2016-01-09 15:41:45.201 Client accepted: Socket[addr=/192.168.0.63,port=61867,localport=9999]
+2016-01-09 15:41:45.211 Active connections
+2016-01-09 15:41:45.211 61867
+2016-01-09 15:41:45.211 Server Thread 61867 running.
+2016-01-09 15:42:10.967 Action Started (admin): REQUEST 2017/11/11 1h1-1h1 1 admin asd 6
+2016-01-09 15:42:10.998 Sending Invitations for Request#:572
+2016-01-09 15:42:11.008 Request#:572 INVITE
+2016-01-09 15:42:11.008 Request#:572 INVITE
+2016-01-09 15:42:11.018 Waiting for replies for Request#:572
+2016-01-09 15:42:11.018 Request#:572 ATTENDANCE
+2016-01-09 15:42:13.038 Request#:572 WAITING
+2016-01-09 15:42:18.432 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:42:18.553 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:42:21.746 Action Started (admin): ACCEPT 831
+2016-01-09 15:42:21.756 admin.confirmed
+2016-01-09 15:42:23.077 Request#:572 COMPLETED
+2016-01-09 15:42:23.097 Removing Request #: 572 at 0
+2016-01-09 15:44:36.310 Action Started (admin): REQUEST 2017/11/11 1h1-1h1 1 admin asd 6
+2016-01-09 15:44:36.361 Removing Request #: 861 at 0
+2016-01-09 15:44:48.994 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:44:48.994 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:44:57.086 Action Started (admin): REQUEST 2017/11/11 1h1-1h1 1 admin asd 4
+2016-01-09 15:44:57.106 Sending Invitations for Request#:741
+2016-01-09 15:44:57.117 Request#:741 INVITE
+2016-01-09 15:44:57.117 Request#:741 INVITE
+2016-01-09 15:44:57.127 Waiting for replies for Request#:741
+2016-01-09 15:44:57.127 Request#:741 ATTENDANCE
+2016-01-09 15:44:59.148 Request#:741 WAITING
+2016-01-09 15:44:59.269 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:45:00.146 Action Started (admin): MEETINGDETAILS 741
+2016-01-09 15:45:00.146 Action Started (admin): MEETINGDETAILS 741
+2016-01-09 15:45:00.287 Action Started (admin): ACCEPT 822
+2016-01-09 15:45:00.287 admin.confirmed
+2016-01-09 15:45:01.167 Request#:741 COMPLETED
+2016-01-09 15:45:01.187 Removing Request #: 741 at 0
+2016-01-09 15:47:25.392 61867 ERROR reading: Connection reset
+2016-01-09 15:47:25.392 Removing client thread 61867 at 0
+2016-01-09 15:51:26.317 Binding to port 9999, please wait  ...
+2016-01-09 15:51:26.337 Server started: ServerSocket[addr=0.0.0.0/0.0.0.0,localport=9999]
+2016-01-09 15:51:26.337 Initializing..
+2016-01-09 15:51:26.357 Waiting for a client ...
+2016-01-09 15:51:26.357 Forbidden state reached
+2016-01-09 15:51:26.357 Removing Request #: 741 at 0
+2016-01-09 15:51:42.612 Client accepted: Socket[addr=/127.0.0.1,port=36756,localport=9999]
+2016-01-09 15:51:42.622 Active connections
+2016-01-09 15:51:42.622 Server Thread 36756 running.
+2016-01-09 15:51:42.622 36756
+2016-01-09 15:51:50.636 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:51:50.737 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:51:51.347 Action Started (admin): MEETINGDETAILS 741
+2016-01-09 15:51:51.467 Action Started (admin): MEETINGDETAILS 741
+2016-01-09 15:51:58.673 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:51:58.794 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:52:01.504 Action Started (admin): MEETINGDETAILS 741
+2016-01-09 15:52:01.615 Action Started (admin): MEETINGDETAILS 741
+2016-01-09 15:52:06.986 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:52:07.107 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:52:08.879 Action Started (admin): WITHDRAW admin 572
+2016-01-09 15:52:08.889 admin.withdrawed
+2016-01-09 15:52:08.889 Request#:572 CANCELLED
+2016-01-09 15:52:08.919 Request#:572 INVITE2
+2016-01-09 15:52:08.930 Sending Invitations for Request#:572
+2016-01-09 15:52:08.930 Request#:572 INVITE2
+2016-01-09 15:52:08.960 Request#:572 INVITE
+2016-01-09 15:52:08.960 Waiting for replies for Request#:572
+2016-01-09 15:52:08.970 Request#:572 ATTENDANCE2
+2016-01-09 15:52:10.185 Action Started (admin): MEETINGDETAILS 741
+2016-01-09 15:52:10.309 Action Started (admin): MEETINGDETAILS 741
+2016-01-09 15:52:10.599 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:52:10.719 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:52:10.979 Request#:572 WAITING2
+2016-01-09 15:52:12.979 Request#:572 WAITING2
+2016-01-09 15:52:14.980 Request#:572 WAITING2
+2016-01-09 15:52:16.981 Request#:572 WAITING2
+2016-01-09 15:52:18.462 Action Started (admin): ACCEPT 831
+2016-01-09 15:52:18.462 admin.confirmed
+2016-01-09 15:52:18.983 Request#:572 COMPLETED
+2016-01-09 15:52:18.983 Removing Request #: 572 at 0
+2016-01-09 15:52:19.533 Action Started (admin): MEETINGDETAILS 741
+2016-01-09 15:52:19.684 Action Started (admin): MEETINGDETAILS 741
+2016-01-09 15:52:20.416 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:52:20.526 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:52:24.715 Action Started (admin): WITHDRAW admin 572
+2016-01-09 15:52:24.725 admin.withdrawed
+2016-01-09 15:52:24.735 Request#:572 CANCELLED
+2016-01-09 15:52:24.736 Request#:572 INVITE2
+2016-01-09 15:52:24.746 Sending Invitations for Request#:572
+2016-01-09 15:52:24.756 Request#:572 INVITE2
+2016-01-09 15:52:24.756 Request#:572 INVITE
+2016-01-09 15:52:24.766 Waiting for replies for Request#:572
+2016-01-09 15:52:24.766 Request#:572 ATTENDANCE2
+2016-01-09 15:52:26.409 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:52:26.530 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:52:26.780 Request#:572 WAITING2
+2016-01-09 15:52:27.340 Action Started (admin): REJECT 831
+2016-01-09 15:52:27.340 admin.rejected
+2016-01-09 15:52:28.680 Action Started (admin): MEETINGDETAILS 741
+2016-01-09 15:52:28.781 Request#:572 CANCELLED2
+2016-01-09 15:52:28.781 Removing Request #: 572 at 0
+2016-01-09 15:52:28.791 Action Started (admin): MEETINGDETAILS 741
+2016-01-09 15:52:31.541 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:52:31.672 Action Started (admin): MEETINGDETAILS 572
+2016-01-09 15:52:41.778 36756 ERROR reading: Connection reset
+2016-01-09 15:52:41.778 Removing client thread 36756 at 0

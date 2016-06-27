@@ -1,0 +1,10 @@
+ID=572
+CANCELLED2
+REQUEST;REQUEST 2017/11/11 1h1-1h1 1 admin asd 6;572;2017/11/11;1h1-1h1;1;admin;admin;asd;6
+INVITE;831;2017/11/11;1h1-1h1;asd;admin;true
+ATTENDANCE;572;831;1;1;0;1;1;admin.rejected
+ID=741
+COMPLETED
+REQUEST;REQUEST 2017/11/11 1h1-1h1 1 admin asd 4;741;2017/11/11;1h1-1h1;1;admin;admin;asd;4
+INVITE;822;2017/11/11;1h1-1h1;asd;admin;true
+ATTENDANCE;741;822;1;1;1;0;1;admin.confirmed
